@@ -1,0 +1,45 @@
+#one {
+    color:deepskyblue;
+}
+
+#two {
+    color: palevioletred;
+    
+}
+#three {
+    
+    color:orangered;
+}
+#four {
+    color:greenyellow;
+}
+#five {
+    color:mediumvioletred;
+}
+.Element {
+    background-color:rgba(255,238,173, .25);
+    color:red;
+    text-align: center;
+    border:1px solid red;
+    width;200px;
+    height: 100px;
+}
+.hsla {
+    background-color:#A5DCFD;
+}
+#kontener {
+    width:200px;
+    font-size: 12px;
+}
+#p1 {
+    width: 50%;
+    background-color: #ADFF00;
+    font-size: 0.5em;
+}
+#p2 {
+    width: 20%;
+    background-color: #D4FFEA;
+    font-size: 2em;
+}
+ 
+

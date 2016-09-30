@@ -1,0 +1,40 @@
+#one {
+    width:100px;
+    height:100px;
+    border:2px solid red;
+    background-color: blue;
+    color:white;
+    float:left:
+}
+
+#two{
+    width:100px;
+    height:100px;
+    border:2px solid red;
+    background-color: green;
+    color:white;
+    float:right;
+    clear:both;
+}
+#three {
+    width:500px:
+    height:200px:
+    border:2px dashed pink;
+    background-color: bisque;
+    clear:both;
+}
+#four {
+    width:500px:
+    height:200px:
+    border:2px dashed green; 
+    background-color: yellow;
+    clear:both;
+}
+
+
+
+
+
+
+
+
