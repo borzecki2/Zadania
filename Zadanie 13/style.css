@@ -1,0 +1,15 @@
+table {
+    border-collapse: separate;/*każda komórka ma swój border*/
+    border-collapse: collapse;/*każda komórka ma połączony border*/
+    border-spacing: 10px;/*parametr do komórek z własnymi borderami*/
+}
+th {
+    border: 1px solid darkblue;
+    padding: 10px;
+    background: black;
+    color: white;
+    font-weight: 700;
+   }
+td {border: 1px solid green;
+    background-color: beige;
+}

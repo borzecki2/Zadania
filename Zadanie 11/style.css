@@ -1,0 +1,23 @@
+div {
+      background: rgba(147,206,222, 0.4);
+      background: -moz-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,0.75) 41%, rgba(73,165,191,0.4) 100%);
+}
+p {
+ background-color: rgb(145,232,66);
+/*<p> przysłonił tylko background rodzica*/    
+ opacity:.49;     
+}
+#pi {
+    width: 600px;
+    height:600px;
+    border:1px double lightgreen;
+    background-image: url(http://libreshot.com/wp-content/uploads/2014/06/grass-detail.jpg);    
+}
+#si {
+    width: 100%;
+    height: 200px;
+    border:1px solid blue;
+    background-image: url("http://libreshot.com/wp-content/uploads/2015/06/girl-in-bus.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}

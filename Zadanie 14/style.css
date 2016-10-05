@@ -1,0 +1,43 @@
+.i {
+    width: 620px;
+    height: 15px;
+    display: block;
+    color:gray;
+    border: 1px solid gray;
+}
+
+#t {
+    
+    display: block;
+    color:gray;
+    width: 620px;
+    height: 140px;
+    border: 1px solid gray;
+}
+#submit {
+    width: 125px;
+    height: 25px;    
+}
+
+fieldset {
+    float:right;
+    
+}
+
+.radio {
+    display: inline;
+       
+}
+
+#data {
+    width: 145px;
+    height: 30px;
+}
+
+#password {
+    width:170px;
+    height:20px;
+}
+
+
+
